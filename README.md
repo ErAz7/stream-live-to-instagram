@@ -6,11 +6,11 @@ stream any video live to Instagram
  ```
  npm i
  ```
- to install, then enter your instagram account `username` and `password` in `config.js` file. run:
+ to install dependencies, then enter your instagram account `username` and `password` in `config.js` file. run:
  ```
  npm start
  ```
  enter video file path when asked and __done !__
  
  # Contribution
- I'm just too busy to create a GUI for this with Electron (or anything else). also any PR is welcome
+ I'm just too busy to create a GUI for this with Electron (or anything else) so any PR on this or any other improvement is welcome
